@@ -1,0 +1,138 @@
+ [
+    {
+        "id":1,
+        "name":"Full sleev shirt",
+        "photoUrl": "photos/shirt.jpg",
+        "price":1800,
+        "catagory":"Dress"
+    },
+    {
+        "id":2,
+        "name":"Back case for Samsung A11",
+        "price":750,
+       
+        "photoUrl": "photos/backcover.png",
+        "catagory":"Phone Accessories"
+    },
+    {
+        "id":3,
+        "name":"Lichi watch for men",
+        "price":4500,
+        "photoUrl": "photos/watchmen.jpeg",
+        "catagory":"Accessories"
+    },
+    {
+        "id":4,
+        "name":"Sameer Mixi",
+        "price":5000,
+        "photoUrl": "photos/mixi.jpg",
+        "catagory":"Home Appliences"
+    },
+    {
+        "id":5,
+        "name":"Prestige iron-box",
+        "price":4000,
+        "photoUrl": "photos/ironbox.jpg",
+        "catagory":"Home Appliences"
+    },
+    {
+        "id":6,
+        "name":"Watch for Women",
+        "price":1500,
+        "photoUrl": "photos/watchwomen.jpg",
+        "catagory":"Accessories"
+    },
+    {
+        "id":7,
+        "name":"Necklace",
+        "price":2500,
+        "photoUrl": "photos/necklace.jpg",
+        "catagory":"Accessories"
+    },
+    {
+        "id":8,
+        "name":"Airpot 2",
+        "price":8500,
+        "photoUrl": "photos/airpot.jpg",
+        "catagory":"Phone Accessories"
+    },
+    {
+        "id":9,
+        "name":"Chudithar",
+        "price":8500,
+        "photoUrl": "photos/chudi.jpg",
+        "catagory":"Dress"
+    },
+    {
+        "id":10,
+        "name":"Night Light",
+        "price":3800,
+        "photoUrl": "photos/nightlight.jpg",
+        "catagory":"Home Appliences"
+    },
+    
+    {
+        "id":11,
+        "name":"Tempered glass for Samsung M10",
+        "price":400,
+        "photoUrl": "photos/tempered.jpg",
+        "catagory":"Phone Accessories"
+    },
+    {
+        "id":12,
+        "name":"Joggy for men",
+        "price":1200,
+        "photoUrl": "photos/joggy.png",
+        "catagory":"Dress"
+    },
+    {
+        "id":13,
+        "name":"Sun glass",
+        "price":1000,
+        "photoUrl": "photos/glass.jpg",
+        "catagory":"Accessories"
+    },
+    {
+        "id":14,
+        "name":"Hot plate",
+        "price":10000,
+        "photoUrl": "photos/hotplate.jpg",
+        "catagory":"Home Appliences"
+    },
+    {
+        "id":15,
+        "name":"Sports shoe",
+        "price":6500,
+        "photoUrl": "photos/shoe.jpg",
+        "catagory":"Accessories"
+    },
+    {
+        "id":16,
+        "name":"Samsung Battery",
+        "price":2000,
+        "photoUrl": "photos/battery.jpg",
+        "catagory":"Phone Accessories"
+    },
+    {
+        "id":17,
+        "name":"Lehanga for child",
+        "price":5500,
+        "photoUrl": "photos/lehe.jpg",
+        "catagory":"Dress"
+    },
+    {
+        "id":18,
+        "name":"Samsung S8+ Display",
+        "price":9500,
+        "photoUrl": "photos/s8+.jpg",
+        "catagory":"Phone Accessories"
+    },
+    {
+        "id":19,
+        "name":"Fashion jeans for men",
+        "price":5000,
+        "photoUrl": "photos/jeans.jpg",
+        "catagory":"Dress"
+    }
+    
+]
