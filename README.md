@@ -2,7 +2,8 @@
 
 Run application
 ====================
-npm start         ------> for client side 
+npm start         ------> for client side .
+
 npm run devStart  ------> for server side
 
 client side will be run on our localhost:3000 and server side will be hosted by localhost:3001.
