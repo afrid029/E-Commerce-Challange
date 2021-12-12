@@ -14,7 +14,7 @@ Technologies
  + MySql is used for database services.
  + Bootstrap for some styling purposes
  
- + I recently started to learn react myself. I understood the beauty of the reack little bit. Even I have got some knowledge, I dont have any working experiences since, I wish to    grab this opportunity to test myself. Moreover, there is a special note that build using react will be added advantage.
+ + I recently started to learn react myself. I understood the beauty of the reack little bit. Eventhough I have got some knowledge, I dont have any working experiences since, I wish to    grab this opportunity to test myself. Moreover, there is a special note that build using react will be added advantage.
  + When I thought about choosing of database,I am more familier with MySql than others and it is easy to implement also. If I want to go through other alternative I will pick         Firebase as my choice. Recently I had some pleasant experience about firebase and this is NOSql also.
 
 Future Updates
