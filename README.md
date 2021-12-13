@@ -8,7 +8,7 @@ npm start         ------> for client side(./client).
 
 npm run devStart  ------> for server side (./server).
 
-(If there is error please run "npm install" to install required node modules
+(If there is error please run "npm install" to install required node modules)
 
 client side will be run on our localhost:3000 and server side will be hosted by localhost:3001.
 
@@ -20,8 +20,9 @@ Technologies
  + MySql is used for database services.
  + Bootstrap for some styling purposes
  
- + I recently started to learn react myself. I understood the beauty of the reack little bit. Eventhough I have got some knowledge, I dont have any working experiences since, I wish to    grab this opportunity to test myself. Moreover, there is a special note that build using react will be added advantage.
- + When I thought about choosing of database,I am more familier with MySql than others and it is easy to implement also. If I want to go through other alternative I will pick         Firebase as my choice. Recently I had some pleasant experience about firebase and this is NOSql also.
+ + I recently started to learn react myself. I understood the beauty of the react little bit. Eventhough I have got some knowledge, I don't have any working experiences since, 
+   I  wish to grab this opportunity to test myself. Moreover, there is a special note that build using react will be added advantage for this challange.
+ + When I thought about choosing of database,I am more familier with MySql than others and it is easy to implement also. If I want to go through other alternative I will pick      Firebase as my choice. Recently I had some pleasant experience about firebase and this is NOSql also.
 
 Possible Future Updates
 =======================
