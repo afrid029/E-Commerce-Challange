@@ -27,7 +27,7 @@ Technologies
 Possible Future Updates
 =======================
   + A user can see the products without login but should need to be logged in to buy products.
-  + Confirm the signup via mail. It should be implemented.
+  + Confirm the signup via mail. It should be implemented to avoid fake emails.
   + Enabling forgot password feature.
   + validate the password and email
   + There can be two type of consumers. seller and buyer.
